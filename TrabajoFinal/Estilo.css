@@ -82,6 +82,11 @@ p {
     margin-bottom: 15px;
 }
 
+.Imagen {
+    width: 80%;
+    height: 100%;
+}
+
 .Imagenes {
     margin-left: 3%;
     margin-right: 3%;
