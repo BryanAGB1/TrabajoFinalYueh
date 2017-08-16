@@ -74,6 +74,28 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Estilo.css" />
+    <Content Include="Imagenes\13.png" />
+    <Content Include="Imagenes\391-mail4.png" />
+    <Content Include="Imagenes\397-google-plus2.png" />
+    <Content Include="Imagenes\401-facebook.png" />
+    <Content Include="Imagenes\403-instagram.png" />
+    <Content Include="Imagenes\407-twitter.png" />
+    <Content Include="Imagenes\408-vine.png" />
+    <Content Include="Imagenes\414-youtube.png" />
+    <Content Include="Imagenes\acerca dde.png" />
+    <Content Include="Imagenes\AREA BLANCO ORNATO 550.jpg" />
+    <Content Include="Imagenes\batería-1024x715.jpg" />
+    <Content Include="Imagenes\Computacion.png" />
+    <Content Include="Imagenes\Contacto.png" />
+    <Content Include="Imagenes\Emblem-question-red.svg.png" />
+    <Content Include="Imagenes\help.png" />
+    <Content Include="Imagenes\linea-telefono-kuIF--620x349%40abc.jpg" />
+    <Content Include="Imagenes\Malos-Habitos.jpg" />
+    <Content Include="Imagenes\Objetivos.png" />
+    <Content Include="Imagenes\Pasatimepo.png" />
+    <Content Include="Imagenes\tumblr_static_tumblr_static_49zrgp01z82ssso8sk8o08ogk_640.jpg" />
+    <Content Include="PaginaPrincipal.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
