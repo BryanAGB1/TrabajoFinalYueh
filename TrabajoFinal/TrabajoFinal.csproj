@@ -74,6 +74,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Busquedas.html" />
+    <Content Include="Conclusiones.html" />
+    <Content Include="Confiabilidad.html" />
+    <Content Include="Contenido.html" />
+    <Content Include="Cuadro.html" />
     <Content Include="Estilo.css" />
     <Content Include="Imagenes\13.png" />
     <Content Include="Imagenes\391-mail4.png" />
