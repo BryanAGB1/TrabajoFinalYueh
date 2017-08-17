@@ -65,6 +65,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Imagenes\Clase-Introductoria-Marketing-Digital-Taller-Community-Manager-Santo-Domingo.jpg" />
+    <Content Include="Imagenes\Internet_01.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
