@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Imagenes\Clase-Introductoria-Marketing-Digital-Taller-Community-Manager-Santo-Domingo.jpg" />
+    <Content Include="Imagenes\conclusion.jpg" />
     <Content Include="Imagenes\Internet_01.jpg" />
     <Content Include="Imagenes\Motores-de-busqueda.jpg" />
     <Content Include="Imagenes\seguridad.png" />
