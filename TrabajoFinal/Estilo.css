@@ -76,6 +76,10 @@ p {
     overflow: hidden;
 }
 
+table, th, td {
+    border: 1px solid black;
+}
+
 .Opcion {
     float: left;
     margin-left: 15px;
